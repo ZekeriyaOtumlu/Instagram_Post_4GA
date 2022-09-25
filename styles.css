@@ -1,0 +1,59 @@
+#html5{
+    width: 10px;
+    height: 100px;
+    padding-left: 30px;
+    margin:20px;
+}
+h4{
+ 
+
+
+}
+#kebobmenu{
+    margin: 20px 700px;
+
+}
+
+.part1-header{
+    display: flex;
+
+}
+.post{
+margin: auto;
+width: 60%;
+/* border: 5px solid #FFFF00; */
+padding: 10px;
+   
+}
+img{
+    width: 900px;
+    height: 800px;
+    margin-top: -70px;
+
+}
+#heart{
+    width: 10px;
+    margin:10px;
+}
+#read{
+    width: 10px;
+    margin:10px;
+}
+#peace{
+    width: 10px;
+    margin:10px;
+}
+
+.icons{
+    display: flex;
+
+}
+#bookmark{
+    margin: 20px 780px;
+
+}
+.paragraph{
+    /* width: 10px; */
+    margin:10px;
+
+}
